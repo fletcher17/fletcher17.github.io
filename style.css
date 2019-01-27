@@ -1,0 +1,14 @@
+body, .jumbotron {
+	background-image: url(header.jpg);
+	background-size: cover;
+}
+.btn-danger {
+	background-color: orange;
+	border: blue;
+	text-align: center;
+}
+
+h1, p {
+	color: yellow;
+	text-align: center;
+}
